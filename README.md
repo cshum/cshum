@@ -26,4 +26,4 @@ I am available for consulting and engineering support related to:
 
 For consulting inquiries, contact [imagor@cshum.com](mailto:imagor@cshum.com).
 
-For project questions and bug reports, please use the relevant GitHub repository.
+For project questions or bug reports, feel free to open an issue in the relevant repository.
