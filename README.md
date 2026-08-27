@@ -1,4 +1,4 @@
-# Adrian Shum
+# Adrian C. Shum
 
 I am a software engineer and open-source maintainer from Hong Kong. I build high-performance image processing tools and infrastructure with Go, C, and libvips.
 
