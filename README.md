@@ -11,9 +11,6 @@ My work makes image and media processing faster, safer, and easier to operate.
 - [imagorvideo](https://github.com/cshum/imagorvideo) — video thumbnail processing using ffmpeg C bindings
 - [Imagor Studio](https://imagor.net) — a self-hosted image workspace with editing, layered compositing, and reusable templates
 
-
-My work covers image processing, libvips, Go and C integration, streaming pipelines, storage backends, and production systems.
-
 ## Consulting
 
 I help teams design, extend, and operate high-performance image processing systems with imagor, libvips, Go, and C.
