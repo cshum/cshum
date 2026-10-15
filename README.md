@@ -9,7 +9,7 @@ My work makes image and media processing faster, safer, and easier to operate.
 - [imagor](https://github.com/cshum/imagor) — a fast, secure image processing server and Go library powered by libvips
 - [vipsgen](https://github.com/cshum/vipsgen) — a Go binding generator for libvips with type-safe bindings for around 300 operations
 - [imagorvideo](https://github.com/cshum/imagorvideo) — video thumbnail processing using ffmpeg C bindings
-- [Imagor MCP](https://github.com/cshum/imagor-mcp) — an MCP server and a skill that let an agent compose imagor image layouts
+- [Imagor MCP](https://github.com/cshum/imagor-mcp) — an MCP server and a skill that let an agent compose image layouts into imagor URLs
 - [Imagor Studio](https://github.com/cshum/imagor-studio) — a self-hosted image gallery with editing, layered compositing, and reusable templates
 
 ## Consulting
